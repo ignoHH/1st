@@ -1,3 +1,3 @@
 <?php
-echo "1st";
+echo "1s中线程t";
 ?>
